@@ -11,9 +11,8 @@ This project provides analysis of user purchase behavior using Power BI.
 - **Annual Sales Trends**
 
 ## Screenshots
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/e741c732-3c68-4f2f-8672-9513d30a8a09))
-
-
+## 📷 Screenshots
+![Dashboard Preview]([path/to/your/screenshot.png](https://github.com/Moon1200/User-Purchase-Behavior-Analysis/blob/main/image.png))
 
 ## Technologies Used
 - **Power BI**
