@@ -12,7 +12,8 @@ This project provides analysis of user purchase behavior using Power BI.
 
 ## Screenshots
 ## 📷 Screenshots
-![Dashboard Preview]([path/to/your/screenshot.png](https://github.com/Moon1200/User-Purchase-Behavior-Analysis/blob/main/image.png))
+![Dashboard Preview](image.png)
+
 
 ## Technologies Used
 - **Power BI**
